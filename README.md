@@ -1,2 +1,47 @@
-# superstore-sales-analysis
-Retail sales analysis and dashboard using Microsoft Excel
+# Superstore Sales Analysis
+
+## Project Overview
+An end-to-end retail sales analysis project using Microsoft Excel and the Sample Superstore dataset. The goal was to explore sales performance, profitability, discount patterns, and product performance through data analysis and an interactive-style dashboard.
+
+## Tools Used
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Excel formulas
+- Data visualization
+
+## Dashboard
+The dashboard presents key business metrics and visualizations, including:
+- Total Sales
+- Total Profit
+- Overall Profit Margin
+- Monthly Sales Trends (2014–2017)
+- Sales by Category
+- Profit Margin by Discount Level
+- Profit Margin by Sub-Category
+- Profit Margin by Region
+- 10 Most Profitable Products
+- 10 Least Profitable Products
+
+## Key Findings
+- Total sales reached approximately **$2.30 million**.
+- Total profit was approximately **$286.4 thousand**.
+- Overall profit margin was **12.47%**.
+- Technology generated the highest sales at approximately **$836.2 thousand**.
+- Furniture had a relatively low profit margin of **2.49%**.
+- The West region had the highest profit margin at **14.94%**.
+- The Central region had the lowest profit margin at **7.92%**.
+- Tables had a negative profit margin of **-8.56%**.
+
+## Business Recommendations
+- Investigate Furniture products, especially Tables, to identify the causes of losses.
+- Review discount policies, as higher discount levels were associated with weaker profitability in this dataset.
+- Focus on Technology and Office Supplies, which demonstrated stronger profit margins.
+- Investigate the factors contributing to the lower profitability in the Central region.
+
+## Files
+- `Superstore_Sales_Analysis.xlsx` — Excel workbook containing the analysis and dashboard.
+
+## Author
+Adam Okour  
+Data Science Student
