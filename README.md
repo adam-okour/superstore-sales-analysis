@@ -2,6 +2,9 @@
 
 ## Project Overview
 An end-to-end retail sales analysis project using Microsoft Excel and the Sample Superstore dataset. The goal was to explore sales performance, profitability, discount patterns, and product performance through data analysis and an interactive-style dashboard.
+## Dashboard Preview
+
+![Superstore Sales Dashboard](superstore_dashboard_portfolio.png)
 
 ## Tools Used
 - Microsoft Excel
