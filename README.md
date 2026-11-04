@@ -1,7 +1,15 @@
 # Superstore Sales Analysis
 
 ## Project Overview
-An end-to-end retail sales analysis project using Microsoft Excel and the Sample Superstore dataset. The goal was to explore sales performance, profitability, discount patterns, and product performance through data analysis and an interactive-style dashboard.
+A retail sales analysis and dashboard project. The goal was to explore sales performance, profitability, discount patterns, and product performance through data analysis and an interactive-style dashboard.
+
+## Dataset
+
+- **Source:** [Kaggle – Superstore Dataset Final](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+- **File used:** Sample - Superstore.csv
+- **Records:** 9,994 rows
+- **Columns:** 21
+
 ## Dashboard Preview
 
 ![Superstore Sales Dashboard](superstore_dashboard_portfolio.png)
